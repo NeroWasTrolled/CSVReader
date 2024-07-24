@@ -6,8 +6,8 @@ import time
 import random
 import string
 
-caminho_csv = r'C:\Users\gabriel.simoes\Desktop\Videos\videoteca.csv' 
-caminho_hd = r'D:\Videoteca' 
+caminho_csv = r'' 
+caminho_hd = r'' 
 
 user_agents = [
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/58.0.3029.110 Safari/537.3',
